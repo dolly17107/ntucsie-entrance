@@ -11,6 +11,7 @@
 - [96學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121985) 由 老王不老(lyingheart6174) 整理
 - [97學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121994) 由 老王不老(lyingheart6174) 整理
 - [97學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121991) 由 老王不老(lyingheart6174) 整理
+- [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf)（97學年度） 由 李明融 還原
 - [台大資工2008年度甄選入學第2階段程式題目](https://dowdow.wordpress.com/c_language/problem/NTUCSIE2008/)（97學年度） 由 Qing-Cheng Li 還原
 - [98學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122177) 由 老王不老(lyingheart6174) 整理
 - [98學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122165) 由 老王不老(lyingheart6174) 整理
@@ -33,6 +34,3 @@
 - [106學年度臺灣大學資訊工程學系個人申請第二階段甄試程式設計組試題（由Icosie還原）](106-program.md) 由 Icosie 還原
 
 http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/42/101J02.pdf 
-
-
-http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf 
