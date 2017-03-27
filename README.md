@@ -1,4 +1,4 @@
-# 台大資工考古題蒐集
+# 台大資工系考古題蒐集
 
 - [台大資工2008年度甄選入學第2階段程式題目](https://dowdow.wordpress.com/c_language/problem/NTUCSIE2008/)（97學年度） 由 Qing-Cheng Li 還原
 - [[情報] 台大資工 程式設計 題目](https://www.ptt.cc/bbs/SENIORHIGH/M.1396184666.A.27C.html)（103學年度） 由 qitar888 (OAO/) 還原
