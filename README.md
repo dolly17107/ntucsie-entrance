@@ -33,4 +33,6 @@
 - [106年度資訊工程學系大學申請入學筆試注意事項及座位表公告](https://www.csie.ntu.edu.tw/app/news.php?Sn=12372) 由 臺灣大學資訊工程學系 公布
 - [106學年度臺灣大學資訊工程學系個人申請第二階段甄試程式設計組試題（由Icosie還原）](106-program.md) 由 Icosie 還原
 
+- [https://math.pro/db/thread-915-1-1.html](https://math.pro/db/thread-915-1-1.html)（難題解答）
+
 http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/42/101J02.pdf 
