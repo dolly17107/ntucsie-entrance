@@ -8,6 +8,7 @@
 - [台大資工2008年度甄選入學第2階段程式題目](https://dowdow.wordpress.com/c_language/problem/NTUCSIE2008/)（97學年度） 由 Qing-Cheng Li 還原
 - [98學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122177) 由 老王不老(lyingheart6174) 整理
 - [98學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122165) 由 老王不老(lyingheart6174) 整理
+- [台大資工九十八學年度甄試入學，程式設計考題](https://shaform.wordpress.com/2009/03/29/ntucsi/) 由 Shaform 整理
 - [99學年度台大資工推甄第二階段筆試第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121529) 由 老王不老(lyingheart6174) 整理
 - [99學年度台大資工推甄第二階段筆試第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121526) 由 老王不老(lyingheart6174) 整理
 - [學測指定項目筆試［台大資工］考古題{20點}](https://tw.answers.yahoo.com/question/index?qid=20110207000010KK07602)（99學年度） 由 c 轉載
