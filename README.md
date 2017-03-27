@@ -11,11 +11,11 @@
 - [96學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121985) 由 老王不老(lyingheart6174) 整理
 - [97學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121994) 由 老王不老(lyingheart6174) 整理
 - [97學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121991) 由 老王不老(lyingheart6174) 整理
-- [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf)（97學年度） 由 李明融 還原
+- [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf)（不完全）（97學年度） 由 李明融 還原
 - [台大資工2008年度甄選入學第2階段程式題目](https://dowdow.wordpress.com/c_language/problem/NTUCSIE2008/)（97學年度） 由 Qing-Cheng Li 還原
 - [98學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122177) 由 老王不老(lyingheart6174) 整理
 - [98學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122165) 由 老王不老(lyingheart6174) 整理
-- [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J01.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J01.pdf)（98學年度） 由 王倫 還原
+- [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J01.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J01.pdf)（不完全）（98學年度） 由 王倫 還原
 - [台大資工九十八學年度甄試入學，程式設計考題](https://shaform.wordpress.com/2009/03/29/ntucsi/) 由 Shaform 整理
 - [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J02.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J02.pdf)（98學年度） 由 黃瀚生 還原
 - [99學年度台大資工推甄第二階段筆試第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121529) 由 老王不老(lyingheart6174) 整理
