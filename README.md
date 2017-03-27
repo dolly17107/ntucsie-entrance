@@ -2,6 +2,7 @@
 
 - [台大資工2008年度甄選入學第2階段程式題目](https://dowdow.wordpress.com/c_language/problem/NTUCSIE2008/)（97學年度） 由 Qing-Cheng Li 還原
 - [學測指定項目筆試［台大資工］考古題{20點}](https://tw.answers.yahoo.com/question/index?qid=20110207000010KK07602)（99學年度） 由 c 轉載
+- [100台大資工推甄第二階段](http://lyingheart6174.pixnet.net/blog/post/5121454-100台大資工推甄第二階段) 由 老王不老(lyingheart6174)
 - [[情報] 台大資工 程式設計 題目](https://www.ptt.cc/bbs/SENIORHIGH/M.1396184666.A.27C.html)（103學年度） 由 qitar888 (OAO/) 還原
 - [[心得] 台大資工程式設計組](https://www.ptt.cc/bbs/SENIORHIGH/M.1428813218.A.F06.html)（104學年度） 由 andy920262 (小王) 還原
 - [[心得] 105台大資工數學筆試](https://www.ptt.cc/bbs/SENIORHIGH/M.1459066236.A.25E.html) 由 sc0904 (空空如也) 還原
