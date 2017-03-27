@@ -37,4 +37,6 @@
 
 - [https://math.pro/db/thread-915-1-1.html](https://math.pro/db/thread-915-1-1.html)（難題解答）
 
+- [http://proxy.yphs.tp.edu.tw/~ypd/exam/93/93.htm](http://proxy.yphs.tp.edu.tw/~ypd/exam/93/93.htm) 有各科系豐富的考古題！！
+
 http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/42/101J02.pdf 
