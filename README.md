@@ -9,11 +9,14 @@
 - [台大資工申請入學第二階段數學筆試](https://hsnu1283.files.wordpress.com/2013/03/e58fb0e5a4a7e8b387e5b7a5e794b3e8ab8be585a5e5adb8e7acace4ba8ce99a8ee6aeb5e695b8e5adb8e7ad86e8a9a6.pdf)（密碼猜得出來）（不完全）（91–94學年度） 由 Fermat 整理
 - [http://proxy.yphs.tp.edu.tw/~ypd/exam/93/2/2001.jpg](http://proxy.yphs.tp.edu.tw/~ypd/exam/93/2/2001.jpg)（93學年度）
 - [http://proxy.yphs.tp.edu.tw/~ypd/exam/93/2/2001-1.jpg](http://proxy.yphs.tp.edu.tw/~ypd/exam/93/2/2001-1.jpg)（93學年度）
+- [http://proxy.yphs.tp.edu.tw/~ypd/exam/94/2/2005.jpg](http://proxy.yphs.tp.edu.tw/~ypd/exam/94/2/2005.jpg)（94學年度）
+- [http://proxy.yphs.tp.edu.tw/~ypd/exam/94/2/2005-1.jpg](http://proxy.yphs.tp.edu.tw/~ypd/exam/94/2/2005-1.jpg)（94學年度）
 - [96學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121988) 由 老王不老(lyingheart6174) 整理
 - [96學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121985) 由 老王不老(lyingheart6174) 整理
 - [97學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121994) 由 老王不老(lyingheart6174) 整理
 - [97學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121991) 由 老王不老(lyingheart6174) 整理
 - [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J03.pdf)（不完全）（97學年度） 由 李明融 還原
+- [http://proxy.yphs.tp.edu.tw/~ypd/exam/97/p/2002.jpg](http://proxy.yphs.tp.edu.tw/~ypd/exam/97/p/2002.jpg)（97學年度）
 - [台大資工2008年度甄選入學第2階段程式題目](https://dowdow.wordpress.com/c_language/problem/NTUCSIE2008/)（97學年度） 由 Qing-Cheng Li 還原
 - [98學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122177) 由 老王不老(lyingheart6174) 整理
 - [98學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122165) 由 老王不老(lyingheart6174) 整理
