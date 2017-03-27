@@ -21,6 +21,7 @@
 - [98學年度台大資工推甄第二階段第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122177) 由 老王不老(lyingheart6174) 整理
 - [98學年度台大資工推甄第二階段第二部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5122165) 由 老王不老(lyingheart6174) 整理
 - [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J01.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J01.pdf)（不完全）（98學年度） 由 王倫 還原
+- [http://proxy.yphs.tp.edu.tw/~ypd/exam/98/98.zip](http://proxy.yphs.tp.edu.tw/~ypd/exam/98/98.zip)中的`20100119_00061_Front.jpg`和`20100119_00062_Front.jpg`（98學年度）
 - [台大資工九十八學年度甄試入學，程式設計考題](https://shaform.wordpress.com/2009/03/29/ntucsi/) 由 Shaform 整理
 - [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J02.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/11/98J02.pdf)（98學年度） 由 黃瀚生 還原
 - [99學年度台大資工推甄第二階段筆試第一部分參考解答](http://lyingheart6174.pixnet.net/blog/post/5121529) 由 老王不老(lyingheart6174) 整理
