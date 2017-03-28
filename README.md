@@ -29,6 +29,7 @@
 - [學測指定項目筆試［台大資工］考古題{20點}](https://tw.answers.yahoo.com/question/index?qid=20110207000010KK07602)（99學年度） 由 c 轉載
 - [100台大資工推甄第二階段](http://lyingheart6174.pixnet.net/blog/post/5121454-100台大資工推甄第二階段) 由 老王不老(lyingheart6174) 整理
 - [101台大資工推甄第二階段](http://lyingheart6174.pixnet.net/blog/post/5121469) 由 老王不老(lyingheart6174) 整理
+- [http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/42/101J02.pdf](http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/42/101J02.pdf)（101學年度） 由 藍挺瑋 還原
 - [[心得] 台大資工數學筆試](https://www.ptt.cc/bbs/SENIORHIGH/M.1364712123.A.BBA.html)（不完全）（102學年度） 由 teresacream (奶油) 還原
 - [https://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/85/J03.pdf](https://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/85/J03.pdf)（102學年度） 由 江韋霖 還原
 - [[心得] 台大資工 數學筆試](https://www.ptt.cc/bbs/SENIORHIGH/M.1396156101.A.6E9.html)（103學年度） 由 weirdfoot (ユニライト) 還原
