@@ -42,6 +42,6 @@
 
 - [https://math.pro/db/thread-915-1-1.html](https://math.pro/db/thread-915-1-1.html)（難題解答）
 
-- [http://proxy.yphs.tp.edu.tw/~ypd/exam/93/93.htm](http://proxy.yphs.tp.edu.tw/~ypd/exam/93/93.htm) 有各科系豐富的考古題！！
+- [http://proxy.yphs.tp.edu.tw/~ypd/exam/93/93.htm](http://proxy.yphs.tp.edu.tw/~ypd/exam/93/93.htm) 延平中學 有各科系豐富的考古題、經驗談！！
 
-http://guidance.tnfsh.tn.edu.tw/ezfiles/7/1007/img/42/101J02.pdf 
+- [第二階段指定項目甄試．口面試考古題](http://www.all4you.com.tw/web3/free/Recmd2.asp) 詮達文教
